@@ -1,6 +1,6 @@
 # Deep learning in turbulent convection networks
 
-Notebook for the analisis performed for the work published in the Proceedings of the National Academy of Sciences: https://www.pnas.org/content/116/18/8667
+Notebook for the analysis performed for the work published in the Proceedings of the National Academy of Sciences: https://www.pnas.org/content/116/18/8667
 
 ### Significance
 Turbulent convection in horizontally extended systems comprises vortices and plumes on many time and length scales. These structures interact nonlinearly to self-organize into slowly evolving turbulent superstructures, which are horizontally more extended than in height. We use a U-shaped deep-learning algorithm to generate a time-varying planar network, resulting in a drastic reduction of degrees of freedom, and use it to detect the 3D superstructures and estimate their effectiveness in transporting heat. We thus demonstrate the likely utility of deep learning for parameterizing convection in global models of atmospheric and stellar convection whenever mesoscale structures are conspicuous.
